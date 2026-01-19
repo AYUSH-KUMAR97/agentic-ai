@@ -1,0 +1,16 @@
+agentic-ai-system/
+│── agents/
+│   └── main_agent.py        # Core agent logic
+│── tools/
+│   ├── search_tool.py
+│   ├── calculator.py
+│   └── file_tool.py
+│── memory/
+│   └── memory_store.py
+│── prompts/
+│   └── system_prompt.txt
+│── main.py                  # Entry point
+│── README.md
+│── requirements.txt
+│── .env.example
+│── .gitignore
